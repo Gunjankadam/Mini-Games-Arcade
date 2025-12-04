@@ -1,7 +1,6 @@
 # Mini Games Arcade
 
-A modern, fast, and responsive **mini-games collection** built with **Vite + TypeScript + TailwindCSS**.  
-This arcade showcases multiple lightweight browser-based games with clean UI components and smooth interaction.
+A modern, fast, and responsive **mini-games collection** built with **Vite + TypeScript + TailwindCSS**. This arcade showcases multiple lightweight browser-based games with clean UI components and smooth interaction.
 
 ##  Live Demo
 
