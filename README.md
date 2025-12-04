@@ -1,11 +1,11 @@
-# 🎮 Mini Games Arcade
+# Mini Games Arcade
 
 A modern, fast, and responsive **mini-games collection** built with **Vite + TypeScript + TailwindCSS**.  
 This arcade showcases multiple lightweight browser-based games with clean UI components and smooth interaction.
 
 ## 🚀 Live Demo
 
-🔗 **Deployed Link:** _Coming Soon_
+🔗 **Deployed Link:** https://mini-games-arcade-topaz.vercel.app/_
 
 ## 🖼️ Screenshots
 
@@ -68,10 +68,6 @@ npm install
 npm run dev
 ```
 
-## 🌐 Deployment
-
-Deploy using Vercel, Netlify, GitHub Pages, Firebase, or Cloudflare Pages.
-
 ## 📚 Scripts
 
 | Command | Description |
@@ -81,10 +77,3 @@ Deploy using Vercel, Netlify, GitHub Pages, Firebase, or Cloudflare Pages.
 | `npm run preview` | Preview build |
 | `npm run lint` | Lint project |
 
-## 🤝 Contributing
-
-Contributions are welcome!
-
-## 📄 License
-
-MIT License
