@@ -1,73 +1,90 @@
-# Welcome to your Lovable project
+# 🎮 Mini Games Arcade
 
-## Project info
+A modern, fast, and responsive **mini-games collection** built with **Vite + TypeScript + TailwindCSS**.  
+This arcade showcases multiple lightweight browser-based games with clean UI components and smooth interaction.
 
-**URL**: https://lovable.dev/projects/5917b679-6953-4cca-a501-087554d5a59c
+## 🚀 Live Demo
 
-## How can I edit this code?
+🔗 **Deployed Link:** _Coming Soon_
 
-There are several ways of editing your application.
+## 🖼️ Screenshots
 
-**Use Lovable**
+| Screenshot | Description |
+|-----------|-------------|
+| ![Screenshot 1](./screenshots/screenshot1.png) | _Placeholder for Screenshot 1_ |
+| ![Screenshot 2](./screenshots/screenshot2.png) | _Placeholder for Screenshot 2_ |
+| ![Screenshot 3](./screenshots/screenshot3.png) | _Placeholder for Screenshot 3_ |
+| ![Screenshot 4](./screenshots/screenshot4.png) | _Placeholder for Screenshot 4_ |
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/5917b679-6953-4cca-a501-087554d5a59c) and start prompting.
+## 🎯 Features
 
-Changes made via Lovable will be committed automatically to this repo.
+- 🕹️ A collection of fun mini-games
+- ⚡ Built using **Vite** for ultra-fast development environment
+- 🎨 Styled with **TailwindCSS**
+- 📦 Modular and scalable component structure
+- 🔧 Fully typed using **TypeScript**
+- 🌙 Clean UI, reusable components, easy to extend
+- 📱 Responsive on mobile, tablet, and desktop
 
-**Use your preferred IDE**
+## 🧩 Games Included
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+- **Game 1:** Description  
+- **Game 2:** Description  
+- **Game 3:** Description  
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## 🛠️ Tech Stack
 
-Follow these steps:
+| Category | Technology |
+|----------|------------|
+| Framework | **Vite** |
+| Language | **TypeScript** |
+| Styling | **TailwindCSS** |
+| Build Tools | PostCSS, ESLint |
+
+## 📁 Project Structure
+
+```
+Mini-Games-Arcade/
+├── public/
+├── src/
+│   ├── assets/
+│   ├── components/
+│   ├── games/
+│   ├── App.tsx
+│   ├── main.tsx
+│   └── styles/
+├── index.html
+├── package.json
+├── tailwind.config.ts
+└── vite.config.ts
+```
+
+## 📦 Installation & Setup
 
 ```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
+git clone https://github.com/your-username/Mini-Games-Arcade.git
+cd Mini-Games-Arcade
+npm install
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+## 🌐 Deployment
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+Deploy using Vercel, Netlify, GitHub Pages, Firebase, or Cloudflare Pages.
 
-**Use GitHub Codespaces**
+## 📚 Scripts
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+| Command | Description |
+|--------|-------------|
+| `npm run dev` | Run Vite dev server |
+| `npm run build` | Build optimized production files |
+| `npm run preview` | Preview build |
+| `npm run lint` | Lint project |
 
-## What technologies are used for this project?
+## 🤝 Contributing
 
-This project is built with:
+Contributions are welcome!
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+## 📄 License
 
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/5917b679-6953-4cca-a501-087554d5a59c) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+MIT License
